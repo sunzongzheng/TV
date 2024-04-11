@@ -1,0 +1,11 @@
+分类1,#genre#
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+浙江卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+浙江卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+江苏卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+江苏卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
