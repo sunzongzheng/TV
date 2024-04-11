@@ -1,4 +1,4 @@
-分类1,#genre#
+卫视频道,#genre#
 湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 湖南卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
